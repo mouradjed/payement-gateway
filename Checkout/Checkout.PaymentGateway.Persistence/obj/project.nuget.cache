@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0tX5HmgsANeUjwxHxmDTwUEDqYcVebpWMkqFDaezq7e9lL11tTdZXHjhztbh/37C9EbHp8HxtxZaig4W+uDI5Q==",
+  "success": true,
+  "projectFilePath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Persistence\\Checkout.PaymentGateway.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mourad.djedour\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,286 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Api\\Checkout.PaymentGateway.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Api\\Checkout.PaymentGateway.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Api\\Checkout.PaymentGateway.Api.csproj",
+        "projectName": "Checkout.PaymentGateway.Api",
+        "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Api\\Checkout.PaymentGateway.Api.csproj",
+        "packagesPath": "C:\\Users\\mourad.djedour\\.nuget\\packages\\",
+        "outputPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mourad.djedour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj"
+              },
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj"
+              },
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\Checkout.PaymentGateway.Infrastructure.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\Checkout.PaymentGateway.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj",
+        "projectName": "Checkout.PaymentGateway.Common",
+        "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj",
+        "packagesPath": "C:\\Users\\mourad.djedour\\.nuget\\packages\\",
+        "outputPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mourad.djedour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj",
+        "projectName": "Checkout.PaymentGateway.Core",
+        "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj",
+        "packagesPath": "C:\\Users\\mourad.djedour\\.nuget\\packages\\",
+        "outputPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mourad.djedour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\Checkout.PaymentGateway.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\Checkout.PaymentGateway.Infrastructure.csproj",
+        "projectName": "Checkout.PaymentGateway.Infrastructure",
+        "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\Checkout.PaymentGateway.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mourad.djedour\\.nuget\\packages\\",
+        "outputPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mourad.djedour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Common\\Checkout.PaymentGateway.Common.csproj"
+              },
+              "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj": {
+                "projectPath": "C:\\local\\sources\\c#\\checkout\\Checkout\\Checkout.PaymentGateway.Core\\Checkout.PaymentGateway.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

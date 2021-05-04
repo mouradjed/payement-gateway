@@ -1,0 +1,11 @@
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\bin\Debug\net5.0\Checkout.Payment.Infrastructure.deps.json
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\bin\Debug\net5.0\Checkout.Payment.Infrastructure.dll
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\bin\Debug\net5.0\ref\Checkout.Payment.Infrastructure.dll
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\bin\Debug\net5.0\Checkout.Payment.Infrastructure.pdb
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.AssemblyInfoInputs.cache
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.AssemblyInfo.cs
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.csproj.CoreCompileInputs.cache
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.dll
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\ref\Checkout.Payment.Infrastructure.dll
+C:\local\sources\c#\checkout\Checkout\Checkout.Payment.Infrastructure\obj\Debug\net5.0\Checkout.Payment.Infrastructure.pdb

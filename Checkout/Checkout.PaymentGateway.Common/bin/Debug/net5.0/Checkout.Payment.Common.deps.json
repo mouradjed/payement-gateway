@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Checkout.Payment.Common/1.0.0": {
+        "dependencies": {
+          "Checkout.Payment.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Checkout.Payment.Common.dll": {}
+        }
+      },
+      "Checkout.Payment.Infrastructure/1.0.0": {
+        "runtime": {
+          "Checkout.Payment.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkout.Payment.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Checkout.Payment.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
